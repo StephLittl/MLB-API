@@ -1,5 +1,9 @@
 # MLB-API
 
+Stephanie Little
+
+12/24/2023
+
 Basic idea: I used Python to load data from Pybaseball and the MLB Stats API into a PostgreSQL database. The database was used to supply data for my own API, which provides player, 
 team, game, and pitch-by-pitch information. Only data from 2023 was used.
 
